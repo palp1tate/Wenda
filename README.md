@@ -3,6 +3,8 @@
 
 视频来源：<https://www.bilibili.com/video/BV17r4y1y7jJ/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=84fc27804252448ba51ef3b6abfd5d36>
 
+学习文档和源码均已上传Github
+
 下载：
 ```
 git clone https://github.com/uestc-wxy/Wenda.git
