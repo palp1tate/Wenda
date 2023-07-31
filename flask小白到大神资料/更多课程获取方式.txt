@@ -1,0 +1,6 @@
+
+B站上的课程是flask入门级别，进阶课程在下面链接中哦！
+小西给大家附上链接，有需要的话，可以找小西（微信：zlkt666）领取购课优惠券！
+
+Flask实战课程：https://study.163.com/course/courseMain.htm?share=2&shareId=1025897964&courseId=1212370806&_trace_c_p_k2_=16e183f185a4468cbb9630c285c8c461
+flask全栈开发：https://study.163.com/course/courseMain.htm?share=2&shareId=1025897964&courseId=1004507006&_trace_c_p_k2_=d30659ae670f41198e9666c96309492f
