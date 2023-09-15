@@ -7,7 +7,7 @@
 
 下载：
 ```
-git clone https://github.com/uestc-wxy/Wenda.git
+git clone https://github.com/palp1tate/Wenda.git
 ```
 
 打开`config.py`
@@ -50,15 +50,15 @@ python app.py
 
 最后访问网址：<http://127.0.0.1:5000> 即可
 
-![image](https://github.com/uestc-wxy/Wenda/assets/120303802/5ea0a511-e94a-446b-b028-6446e8f94690)
+![image](https://github.com/palp1tate/Wenda/assets/120303802/5ea0a511-e94a-446b-b028-6446e8f94690)
 
-![image](https://github.com/uestc-wxy/Wenda/assets/120303802/ab73bf7d-f951-4fa3-a6b3-9d7426cc5b02)
+![image](https://github.com/palp1tate/Wenda/assets/120303802/ab73bf7d-f951-4fa3-a6b3-9d7426cc5b02)
 
-![image](https://github.com/uestc-wxy/Wenda/assets/120303802/18054f91-0bfe-4e55-90cf-e1b1fd774323)
+![image](https://github.com/palp1tate/Wenda/assets/120303802/18054f91-0bfe-4e55-90cf-e1b1fd774323)
 
-![image](https://github.com/uestc-wxy/Wenda/assets/120303802/3d53cd68-7616-43a8-adea-c3ea14345c58)
+![image](https://github.com/palp1tate/Wenda/assets/120303802/3d53cd68-7616-43a8-adea-c3ea14345c58)
 
-![image](https://github.com/uestc-wxy/Wenda/assets/120303802/cb5dcf43-f43d-464f-9db6-a67711931aa0)
+![image](https://github.com/palp1tate/Wenda/assets/120303802/cb5dcf43-f43d-464f-9db6-a67711931aa0)
 
 
 
